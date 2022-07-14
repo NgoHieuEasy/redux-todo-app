@@ -6,7 +6,7 @@ const initState={
     },
     todoList:[
         {id:1,name:'Learn PHP',completed:false,prioriry:'Medium'},
-        {id:2,name:'Learn Redux',completed:true,prioriry:'Low'},
+        {id:2,name:'Learn Redux11',completed:true,prioriry:'Low'},
         {id:3,name:'Learn Javascript',completed:false,prioriry:'Hight'},
     ]
 }
